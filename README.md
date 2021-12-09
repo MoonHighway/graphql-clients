@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/migo24P.png" width="100" alt="moon highway logo"/>
 </p>
 
-# GraphQL APIs Workshop
+# GraphQL Clients Workshop
 
 Welcome! We're really glad you're here! Below you'll find all of the resources that we'll use throughout this course. If you're looking for slides, samples, links, etc., this is the place to look.
 
